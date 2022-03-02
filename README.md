@@ -1,4 +1,3 @@
-<h1>Sandra Moreno Palacios</h1>
 <body>
   <h2>Who am I</h2>
   <div>
