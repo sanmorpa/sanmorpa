@@ -10,14 +10,14 @@
       This github is a portfolio of all my projects at 42 Madrid and some personal ones. I'm currently working on making a small replica of a shell in bash, go take a look if you are interested!
     </p>
     <a href="https://github.com/JaeSeoKim/badge42" target="_blank">
-      <img align="center" src="https://badge42.herokuapp.com/api/stats/samoreno"/>
+      <img align="center" src="https://badge42.herokuapp.com/api/stats/samoreno?privacyName=true"/>
     </a>
   </div>
   <h2>Some stats</h2>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanmorpa&theme=vue&hide_border=true&show_icons=true&custom_title=My%20Stats"/>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmorpa&theme=vue&hide_border=true"/>
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanmorpa&theme=vue-dark&hide_border=true&show_icons=true&custom_title=My%20Stats"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmorpa&theme=vue-dark&hide_border=true"/>
     </a>
   </div>
 </body>
