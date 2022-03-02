@@ -17,7 +17,7 @@
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanmorpa&theme=vue-dark&hide_border=true&show_icons=true&custom_title=My%20Stats"/>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmorpa&theme=vue-dark&hide_border=true"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmorpa&theme=vue-dark&hide_border=true&hide=Brainfuck,Objective-C"/>
     </a>
   </div>
 </body>
