@@ -1,9 +1,11 @@
 <body>
   <h2>Who am I</h2>
   <div>
-    <p>🔭 I’m currently working on <a href="https://github.com/sanmorpa/minishell">minishell</a>, creating a simpler version of a shell in bash<br/>
-       🌱 I’m currently learning at <a href="https://www.42madrid.com"/>42 Madrid</a><br/>
-       📫 How to reach me: <a href="mailto:samoreno@student.42madrid.com">samoreno@student.42madrid.com</a>
+    <p>
+      📖 I'm currently doing a Google Cloud bootcamp to pass the <a href ="https://cloud.google.com/certification/cloud-architect">Professional Cloud Architect Certification</a><br/>
+      🔭 I’m currently working on <a href="https://github.com/sanmorpa/minishell">minishell</a>, creating a simpler version of a shell in bash<br/>
+      🌱 I’m currently learning at <a href="https://www.42madrid.com"/>42 Madrid</a><br/>
+  📫 How to reach me: <a href="mailto:samoreno@student.42madrid.com">samoreno@student.42madrid.com</a>
     </p>
     <p text_align="justify">
       Welcome to my Github! Mi name is Sandra, a student at 42 Madrid since November 2021. I'm currently working on the common-core, aiming to finish it and starting the Big Data and AI branch. Previously to 42, I've done a bachelor on Philosphy, Politics and Economics focused on econometrics and statistics.<br/>
