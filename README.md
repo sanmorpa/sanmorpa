@@ -2,7 +2,8 @@
   <h2>Who am I</h2>
   <div>
     <p>
-      📖 I'm currently doing a Google Cloud bootcamp to pass both the <a href="https://cloud.google.com/certification/guides/cloud-engineer">Associate Cloud Engineer Certification</a> and the <a href ="https://cloud.google.com/certification/cloud-architect">Professional Cloud Architect Certification</a><br/>
+      🌥 Associate Cloud Engineer<br/>
+      📖 I'm currently doing a Google Cloud bootcamp to pass the <a href ="https://cloud.google.com/certification/cloud-architect">Professional Cloud Architect Certification</a><br/>
       🔭 I’m currently working on <a href="https://github.com/sanmorpa/minishell">minishell</a>, creating a simpler version of a shell in bash<br/>
       🌱 I’m currently learning at <a href="https://www.42madrid.com"/>42 Madrid</a><br/>
   📫 How to reach me: <a href="mailto:samoreno@student.42madrid.com">samoreno@student.42madrid.com</a>
