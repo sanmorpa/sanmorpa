@@ -14,10 +14,7 @@
       <img align="center" src="https://badge42.herokuapp.com/api/stats/samoreno?privacyName=true"/>
     </a>
   </div> -->
-  <h2>Some stats</h2>
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanmorpa&theme=vue-dark&hide_border=true&show_icons=true&custom_title=My%20Stats"/>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmorpa&theme=vue-dark&hide_border=true&layout=compact&hide=Brainfuck"/>
     </a>
   </div>
