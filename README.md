@@ -2,9 +2,8 @@
   <h2>Who am I</h2>
   <div>
     <p>
-      🌥 Professional Cloud Architect<br/>
       🔭 I’m currently working on making a Wolfstein-like 3D map with ray casting<br/>
-      🌱 I’m currently learning at <a href="https://www.42madrid.com"/>42 Madrid</a> and studying a Bootcamp of Python and Big Data at Keepcoding<br/>
+      🌱 I’m currently learning at <a href="https://www.42madrid.com"/>42 Madrid</a> and doing a Bootcamp of Python and Big Data at Keepcoding<br/>
   📫 How to reach me: <a href="mailto:sanmorpa@gmail.com">sanmorpa@gmail.com</a>
     </p>
     <p text_align="justify">
