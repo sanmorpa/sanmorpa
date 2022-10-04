@@ -14,7 +14,7 @@
     </a>
   </div> -->
   <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmorpa&theme=vue-dark&hide_border=true&layout=compact"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmorpa&theme=vue-dark&hide_border=true&layout=compact&hide=Objective-C,Brainfuck"/>
     </a>
   </div>
 </body>
