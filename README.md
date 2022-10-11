@@ -13,6 +13,6 @@
       <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8uf09z900060gl2pg6sdczb/stats?cursusId=21&coalitionId=65" alt="samoreno's 42 stats" /></a><br/>
       <h3>Languages</h3>
       In 42 Madrid I've learned C from sratch, and I'm currently learning OOP through C++. At the same time, I'm learning Python oriented to Big data. <br/>
-       <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmorpa&theme=vue-dark&hide_border=true&layout=compact&hide=Objective-C,Brainfuck"/></a>
+       <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmorpa&theme=vue-dark&hide_border=true&layout=compact&hide=Objective-C,Brainfuck,Roff"/></a>
   </div>
 </body>
