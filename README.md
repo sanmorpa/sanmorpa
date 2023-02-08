@@ -2,7 +2,7 @@
   <h2>Who am I</h2>
   <div>
     <p>
-      🌱 I’m learning at <a href="https://www.42madrid.com"/>42 Madrid</a> and doing a Bootcamp of Python and Big Data at Keepcoding<br/>
+      🌱 I’m a Junior Data Engineer and a student at <a href="https://www.42madrid.com"/>42 Madrid</a><br/>
       🔭 I’m working on making a Wolfstein-like 3D map with ray casting and a <a href="https://github.com/sanmorpa/connect-four">Connect-four game</a> with a simple AI<br/>
       📫 How to reach me: <a href="mailto:sanmorpa@gmail.com">sanmorpa@gmail.com</a>
     </p>
